@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         } catch (Exception e) {
             e.printStackTrace();
+            //sout
         }
     }
 }
